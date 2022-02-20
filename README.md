@@ -39,34 +39,34 @@ Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave
 
 
 ### 💘 Github Stats:-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanendra95&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=avnishaarya&theme=radical)
 </br>
 
 
 ### 🤝 Connect with me:-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gyanendra95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/gyanendra95//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/gyanendra95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/gyanendra95//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/gyanendra95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/gyanendra95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15206670/gyanendra95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/uc4eu1f3ponzlvwq1hfk1pea)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/avnishaarya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avnisharya//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/gyanendra95/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/gyanendra95//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/gyanendra95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/gyanendra95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/15206670/gyanendra95)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/uc4eu1f3ponzlvwq1hfk1pea)  
 </br>
 
 
 ### 💘 Github Trophies:-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gyanendra95&theme=gruvbox)](https://github.com/gyanendra95/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=avnishaarya&theme=gruvbox)](https://github.com/gyanendra95/github-profile-trophy)
 </br></br>
 
 ### 💘 Top Languages:-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra95&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/gyanendra95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnishaarya&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/avnishaarya/github-readme-stats)
 </br></br>
 
 ### 💘 Github Activity Graph:-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gyanendra95)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=avnishaarya)
 </br></br>
 
 ### 💘 Github Metrics:-
-![GitHub metrics](https://metrics.lecoq.io/gyanendra95)  
+![GitHub metrics](https://metrics.lecoq.io/avnishaarya)  
 
 </br>
 
 ### 💘 Github Streak Stats:-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gyanendra95)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=avnishaarya)  
 
 </br>
 
