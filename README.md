@@ -12,7 +12,7 @@ Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave
 <br><br>
 
 - 🔭 ***I'm a final year student of B.Tech with Electrical Engineering at MMMUT Gorakhpur.***</br></br>
-- 🌱 ***I’m Currently learning C++.***</br></br>
+- 🌱 ***I’m Currently learning java.***</br></br>
 - 🥅 ***I’m focusing on Competitive Programming.***</br></br>
 - 👯 ***I want to contribute in open source projects.***</br></br>
 - 🎯 ***2023 Goals: To be an expert of Artificial Intelligence.***</br></br>
