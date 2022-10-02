@@ -11,7 +11,7 @@ Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/avnishaarya) [![Followers](https://img.shields.io/github/followers/avnishaarya?style=social)](https://github.com/avnishaarya?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/avnishaarya) [![Repos Badge](https://badges.pufler.dev/repos/avnishaarya)](https://github.com/avnishaarya?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/avnisharya/)
 <br><br>
 
-- 🔭 ***I'm a final year student of B.Tech with Electrical Engineering at MMMUT Gorakhpur.***</br></br>
+- 🔭 ***I had completed B.Tech with Electrical Engineering at MMMUT Gorakhpur in year 2022.***</br></br>
 - 🌱 ***I’m Currently learning java.***</br></br>
 - 🥅 ***I’m focusing on Competitive Programming.***</br></br>
 - 👯 ***I want to contribute in open source projects.***</br></br>
@@ -19,7 +19,7 @@ Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave
 - 💬 ***Ask me about: Web Development, Machine Learning and Internet of Things.***</br></br>
 - 📫 ***How to reach me: avnishaarya@gmail.com***</br></br>
 - 😄 ***Pronouns: He/his***</br></br>
-- ⚡ ***Fun fact: I like potrait and live sketching.*** 😂</br></br>
+- ⚡ ***Fun fact: I like to do Portrait Sketching and love paintings on canva.*** 😂</br></br>
 
 <a><img src="https://cdn.dribbble.com/users/418124/screenshots/16437257/media/7ce1d14ea65ad0fe0ba93434d6adc6a7.gif"></a>
 
