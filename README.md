@@ -12,11 +12,11 @@ Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave
 <br><br>
 
 - 🔭 ***I had completed B.Tech with Electrical Engineering at MMMUT Gorakhpur in year 2022.***</br></br>
-- 🌱 ***I’m Currently learning java.***</br></br>
+- 🌱 ***I’m Currently learning Frontend Programming And Java.***</br></br>
 - 🥅 ***I’m focusing on Competitive Programming.***</br></br>
 - 👯 ***I want to contribute in open source projects.***</br></br>
-- 🎯 ***2023 Goals: To be an expert of Artificial Intelligence.***</br></br>
-- 💬 ***Ask me about: Web Development, Machine Learning and Internet of Things.***</br></br>
+- 🎯 ***2023 Goals: To be an expert of Frontend Developer.***</br></br>
+- 💬 ***Ask me about: Web Development , UserInterfaces, UserExprience and Mobile Design .***</br></br>
 - 📫 ***How to reach me: avnishaarya@gmail.com***</br></br>
 - 😄 ***Pronouns: He/his***</br></br>
 - ⚡ ***Fun fact: I like to do Portrait Sketching and love paintings on canva.*** 😂</br></br>
